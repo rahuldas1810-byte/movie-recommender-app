@@ -4,10 +4,10 @@ A content-based Movie Recommendation System built using Machine Learning, Natura
 
 ## 🚀 Live Demo
 
-Add your Streamlit deployment link here after deployment.
+
 
 ```text
-https://your-app-name.streamlit.app
+[https://your-app-name.streamlit.app](https://movie-recommender-app97865434.streamlit.app/)
 ```
 
 ---
